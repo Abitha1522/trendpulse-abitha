@@ -23,7 +23,6 @@ post_id,title,category,score,num_comments,author,collected_at
 49753965,What Using AI Therapy Gets Wrong,technology,12,0,fhe,2026-09-19T01:52:27.525773
 49758331,Stratasys awarded 27.6M in damages in first of 2 cases against bambu lab,technology,6,0,iancmceachern,2026-09-19T01:52:27.525773
 49746163,Bend – a language that blocks AI mistakes via proof and runs on GPUs,technology,587,297,nicolas-siplis,2026-09-19T01:52:27.525773
-49758647,Virginia governor creates an AI task force and moves to restrain data centers,technology,4,0,meep_meep_meep,2026-09-19T01:52:27.525773
 49758028,Border agents can search cellphones without a warrant or reasonable suspicion,worldnews,74,46,mmh0000,2026-09-19T01:52:27.525773
 49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),worldnews,46,5,succinct_ideas,2026-09-19T01:52:27.525773
 49754687,Second Circuit allows government to search electronic devices at the border,worldnews,100,66,HotGarbage,2026-09-19T01:52:27.525773
@@ -54,12 +53,10 @@ post_id,title,category,score,num_comments,author,collected_at
 49736901,PC ports of old console games are the new AI vibe coding battleground,sports,11,0,FMecha,2026-09-19T01:52:27.525773
 49746626,How SpaceX streamlined the Raptor engine,science,80,7,JumpCrisscross,2026-09-19T01:52:27.525773
 49753878,An empirical study of harness design for coding agents,science,193,52,wek,2026-09-19T01:52:27.525773
-49759285,"Europe can lower emissions without deindustrializing, say researchers",science,4,0,mdp2021,2026-09-19T01:52:27.525773
 49755337,Build Faster Feedback Loops Using Qualitative User Research,science,21,2,nadis,2026-09-19T01:52:27.525773
 49742714,Whoisinspace.com/,science,135,81,Egg-Man,2026-09-19T01:52:27.525773
 49720854,Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime,science,38,9,JojoFatsani,2026-09-19T01:52:27.525773
 49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",science,88,14,rahimnathwani,2026-09-19T01:52:27.525773
-49754406,Researchers used Claude to hack OpenAI,science,3,1,CharlesW,2026-09-19T01:52:27.525773
 49707473,US confirms for first time it has deployed space weapons,science,481,368,harporoeder,2026-09-19T01:52:27.525773
 49759303,"Musk threatens to sue over Gibney documentary's ""space lasers"" claim",science,6,0,JumpCrisscross,2026-09-19T01:52:27.525773
 49731620,How good are frontier models at physics?,science,95,50,qt31415926,2026-09-19T01:52:27.525773
@@ -84,7 +81,6 @@ post_id,title,category,score,num_comments,author,collected_at
 49743459,"Show HN: Craigslist for agent skills, curated by a human",entertainment,25,18,skeptrune,2026-09-19T01:52:27.525773
 49746075,A Netflix documentary led to resurrecting a 9/11 memorial,entertainment,18,0,rafaelc,2026-09-19T01:52:27.525773
 49740047,Show HN: I built a new version of my fun spatial 3D online meeting app,entertainment,97,52,pawelwentpawel,2026-09-19T01:52:27.525773
-49755226,"Show HN: Quokka – a self-hosting, deterministic programming language",entertainment,4,1,CFBL,2026-09-19T01:52:27.525773
 49746713,Show HN: OJ – A drop-in replacement for Vite in Rust,entertainment,16,1,h1fra,2026-09-19T01:52:27.525773
 49743382,"Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",entertainment,32,17,chris_marino,2026-09-19T01:52:27.525773
 49699477,Show HN: AttaLambda: a language where types and data are made of untyped lambdas,entertainment,44,7,kserrec,2026-09-19T01:52:27.525773
