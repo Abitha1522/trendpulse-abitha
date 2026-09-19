@@ -1,0 +1,97 @@
+post_id,title,category,score,num_comments,author,collected_at
+49758736,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,technology,116,41,theanonymousone,2026-09-19T01:52:27.525773
+49754785,Cloudflare Quick Tunnels,technology,409,187,jcbhmr,2026-09-19T01:52:27.525773
+49758419,Apple releases iPhone Duo simulator and Xcode 27.1 beta,technology,44,10,CameronBanga,2026-09-19T01:52:27.525773
+49758689,The Implications of Linguistic Illegibility for LLM Security,technology,15,6,tomjakubowski,2026-09-19T01:52:27.525773
+49755533,Our brain evolved from two primitive nervous systems that merged: Study,technology,47,25,Jimmc414,2026-09-19T01:52:27.525773
+49757520,US Military had close call after using AI for hallucinated intelligence report,technology,247,183,realsarm,2026-09-19T01:52:27.525773
+49750694,Inside ZCode: Silently uploading your Git history to the cloud,technology,208,83,csmantle,2026-09-19T01:52:27.525773
+49749656,A heap overflow and SSO misconfiguration to compromise OpenAI internal repos,technology,454,192,Handy-Man,2026-09-19T01:52:27.525773
+49714157,A search-and-inference database from scratch in pure Zig,technology,25,5,kingcauchy,2026-09-19T01:52:27.525773
+49755095,Mathematicians Build Long-Awaited Graph Sandwich,technology,49,13,ibobev,2026-09-19T01:52:27.525773
+49747070,How to Write with an LLM,technology,297,209,joeriddles,2026-09-19T01:52:27.525773
+49754064,NATS publishes preliminary report on technical incident of 8 September,technology,42,24,asplake,2026-09-19T01:52:27.525773
+49752614,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",technology,273,182,saimiam,2026-09-19T01:52:27.525773
+49755431,GrassLobster: AI Agentic Generation of Parametric Geometry Workflows,technology,25,5,aidog,2026-09-19T01:52:27.525773
+49754250,AI chatbots are becoming experts at changing people's minds,technology,69,88,rbanffy,2026-09-19T01:52:27.525773
+49758250,Anthropic finally adds AGENTS.md support to Claude Code,technology,22,2,deaux,2026-09-19T01:52:27.525773
+49752056,Microsoft exec called AI scraping 'the largest theft of labor in human history',technology,807,703,pluc,2026-09-19T01:52:27.525773
+49746618,Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint,technology,554,183,JonSchneider,2026-09-19T01:52:27.525773
+49710447,"Diplodocus, Long Thought Exclusively American, Turns Up in Spain",technology,95,58,embedding-shape,2026-09-19T01:52:27.525773
+49758749,Hackers Used Anthropic's Claude to Break into OpenAI,technology,7,1,JumpCrisscross,2026-09-19T01:52:27.525773
+49758614,Gov. Newsom signs executive order targeting AI safety 'before it's too late',technology,5,3,hentrep,2026-09-19T01:52:27.525773
+49753965,What Using AI Therapy Gets Wrong,technology,12,0,fhe,2026-09-19T01:52:27.525773
+49758331,Stratasys awarded 27.6M in damages in first of 2 cases against bambu lab,technology,6,0,iancmceachern,2026-09-19T01:52:27.525773
+49746163,Bend – a language that blocks AI mistakes via proof and runs on GPUs,technology,587,297,nicolas-siplis,2026-09-19T01:52:27.525773
+49758647,Virginia governor creates an AI task force and moves to restrain data centers,technology,4,0,meep_meep_meep,2026-09-19T01:52:27.525773
+49758028,Border agents can search cellphones without a warrant or reasonable suspicion,worldnews,74,46,mmh0000,2026-09-19T01:52:27.525773
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),worldnews,46,5,succinct_ideas,2026-09-19T01:52:27.525773
+49754687,Second Circuit allows government to search electronic devices at the border,worldnews,100,66,HotGarbage,2026-09-19T01:52:27.525773
+49743527,Towards Self-Driving Codebases,worldnews,117,94,wilhelmklopp,2026-09-19T01:52:27.525773
+49756171,US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments,worldnews,132,117,iamnothere,2026-09-19T01:52:27.525773
+49727580,A warning about 'model welfare',worldnews,237,677,andsoitis,2026-09-19T01:52:27.525773
+49724488,Salesforce Global Outage,worldnews,279,183,mabil,2026-09-19T01:52:27.525773
+49713024,The Inference Hardware Revolution of 2026,worldnews,164,22,vinhnx,2026-09-19T01:52:27.525773
+49722521,A software thing I built: GPS on a 25MHz 486-SX,worldnews,74,24,JPLeRouzic,2026-09-19T01:52:27.525773
+49743450,The Bicycle and the Algorithm: Amber Case on Why AI Has It Backwards,worldnews,8,2,SLHamlet,2026-09-19T01:52:27.525773
+49755540,Key Alzheimer's study cancelled amid Trump attacks on science,worldnews,10,0,firefax,2026-09-19T01:52:27.525773
+49747491,"U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",worldnews,51,12,vinni2,2026-09-19T01:52:27.525773
+49749666,Be alert: targeted attacks on prominent Rustaceans,worldnews,8,0,vinhnx,2026-09-19T01:52:27.525773
+49742233,OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance,worldnews,40,89,ghernando,2026-09-19T01:52:27.525773
+49744514,Be alert: targeted attacks on prominent Rustaceans,worldnews,22,5,foresto,2026-09-19T01:52:27.525773
+49740816,Why Arab armies don't win wars,worldnews,38,21,Tomte,2026-09-19T01:52:27.525773
+49728781,Show HN: SeasonMap – when to travel where? visualized with climate data,worldnews,22,11,alongtheflow,2026-09-19T01:52:27.525773
+49740967,"Paramount to Leave California Amid Antitrust Battle, Stalled Warner Bros Merger",worldnews,15,2,thunderbong,2026-09-19T01:52:27.525773
+49714036,Show HN: Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s,worldnews,13,4,marcobambini,2026-09-19T01:52:27.525773
+49734664,The US Gov Graph – a complete map of the federal government,worldnews,10,9,m_adams,2026-09-19T01:52:27.525773
+49743574,The Download: mice with part-human brains and climate tech innovators,worldnews,5,0,joozio,2026-09-19T01:52:27.525773
+49742802,Why Germany Is Building an Ark for U.S. Climate Data,worldnews,18,6,Brajeshwar,2026-09-19T01:52:27.525773
+49746963,Show HN: Free game to destroy any web page,sports,15,6,alexreardon,2026-09-19T01:52:27.525773
+49700661,Steam Frame starts at $1059,sports,738,645,bsimpson,2026-09-19T01:52:27.525773
+49746343,Lepton from Valve to run Android games on Linux is now open source,sports,6,0,pizzaiolo,2026-09-19T01:52:27.525773
+49731356,Fed hikes rates as inflation worries push up bond yields,sports,182,249,wslh,2026-09-19T01:52:27.525773
+49726346,Show HN: Picxel – Turn reference images into pixel-art game assets,sports,8,1,Goumang,2026-09-19T01:52:27.525773
+49736901,PC ports of old console games are the new AI vibe coding battleground,sports,11,0,FMecha,2026-09-19T01:52:27.525773
+49746626,How SpaceX streamlined the Raptor engine,science,80,7,JumpCrisscross,2026-09-19T01:52:27.525773
+49753878,An empirical study of harness design for coding agents,science,193,52,wek,2026-09-19T01:52:27.525773
+49759285,"Europe can lower emissions without deindustrializing, say researchers",science,4,0,mdp2021,2026-09-19T01:52:27.525773
+49755337,Build Faster Feedback Loops Using Qualitative User Research,science,21,2,nadis,2026-09-19T01:52:27.525773
+49742714,Whoisinspace.com/,science,135,81,Egg-Man,2026-09-19T01:52:27.525773
+49720854,Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime,science,38,9,JojoFatsani,2026-09-19T01:52:27.525773
+49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",science,88,14,rahimnathwani,2026-09-19T01:52:27.525773
+49754406,Researchers used Claude to hack OpenAI,science,3,1,CharlesW,2026-09-19T01:52:27.525773
+49707473,US confirms for first time it has deployed space weapons,science,481,368,harporoeder,2026-09-19T01:52:27.525773
+49759303,"Musk threatens to sue over Gibney documentary's ""space lasers"" claim",science,6,0,JumpCrisscross,2026-09-19T01:52:27.525773
+49731620,How good are frontier models at physics?,science,95,50,qt31415926,2026-09-19T01:52:27.525773
+49752272,Anthropic sets up biology lab as it ramps AI drug program,science,11,4,bcks,2026-09-19T01:52:27.525773
+49739288,Australia to bar foreign students from bringing partner/child while they study,science,31,11,Markoff,2026-09-19T01:52:27.525773
+49750843,Researchers find way to listen in on headphones from afar,science,6,0,geox,2026-09-19T01:52:27.525773
+49712621,Show HN: Panel – A research workspace where the agent can build its own panes,science,53,22,greentfrapp,2026-09-19T01:52:27.525773
+49734724,Paramount 'leaks' study saying California will suffer if its merger is blocked,science,33,4,hn_acker,2026-09-19T01:52:27.525773
+49699648,Why don't machine learning research agents overfit?,science,135,94,Betelbuddy,2026-09-19T01:52:27.525773
+49748023,Reimagining research papers as interactive and reliable AI agents,science,5,1,bucket2015,2026-09-19T01:52:27.525773
+49728982,NSF memo implementing Trump's 'golden age' of science unsettles researchers,science,37,17,hn_acker,2026-09-19T01:52:27.525773
+49733794,Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery,science,9,1,billybuckwheat,2026-09-19T01:52:27.525773
+49748553,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,entertainment,108,55,HenryNdubuaku,2026-09-19T01:52:27.525773
+49744416,Show HN: Ax-check.com – Can agents use your product?,entertainment,18,16,0x63_Problems,2026-09-19T01:52:27.525773
+49748041,"Show HN: Scry, programmable internet search w/ congestion pricing",entertainment,30,12,Xyra,2026-09-19T01:52:27.525773
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,entertainment,2312,255,arnemunthekaas,2026-09-19T01:52:27.525773
+49757704,Singapore is paying people to read books – can it fix the reading crisis?,entertainment,10,0,CrypticShift,2026-09-19T01:52:27.525773
+49746346,"Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",entertainment,94,43,Capira,2026-09-19T01:52:27.525773
+49746401,Show HN: Microsoft Office running with Wine on Linux with no virtualization,entertainment,77,74,tombert,2026-09-19T01:52:27.525773
+49740105,"Show HN: Share your AI Setup, Learn from others",entertainment,229,130,steveybrown,2026-09-19T01:52:27.525773
+49714196,Grand MS-DOS Gaming General MIDI Showdown,entertainment,90,18,ibobev,2026-09-19T01:52:27.525773
+49743459,"Show HN: Craigslist for agent skills, curated by a human",entertainment,25,18,skeptrune,2026-09-19T01:52:27.525773
+49746075,A Netflix documentary led to resurrecting a 9/11 memorial,entertainment,18,0,rafaelc,2026-09-19T01:52:27.525773
+49740047,Show HN: I built a new version of my fun spatial 3D online meeting app,entertainment,97,52,pawelwentpawel,2026-09-19T01:52:27.525773
+49755226,"Show HN: Quokka – a self-hosting, deterministic programming language",entertainment,4,1,CFBL,2026-09-19T01:52:27.525773
+49746713,Show HN: OJ – A drop-in replacement for Vite in Rust,entertainment,16,1,h1fra,2026-09-19T01:52:27.525773
+49743382,"Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",entertainment,32,17,chris_marino,2026-09-19T01:52:27.525773
+49699477,Show HN: AttaLambda: a language where types and data are made of untyped lambdas,entertainment,44,7,kserrec,2026-09-19T01:52:27.525773
+49712102,Show HN: Hacking a $20 4G wireless hotspot into a texting device,entertainment,205,36,bobili1234,2026-09-19T01:52:27.525773
+49726343,Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models,entertainment,79,49,joozio,2026-09-19T01:52:27.525773
+49712278,Show HN: Capsule – Single-file web apps that save their data into SQLite,entertainment,377,166,bashtian,2026-09-19T01:52:27.525773
+49712005,Over 12% of links posted to Hacker News are Show HN projects now,entertainment,94,44,oyster143,2026-09-19T01:52:27.525773
+49743478,Show HN: AutoBot – live voice control for long-running AI work,entertainment,18,3,demeyer1,2026-09-19T01:52:27.525773
+49713894,Show HN: Pizza Bot – An inbox for AI agents that work in the background,entertainment,59,33,jd_,2026-09-19T01:52:27.525773
+49710968,Show HN: Restarted – a 2026 remake of the classic 2015 startup generator,entertainment,25,9,zxcvbn4038,2026-09-19T01:52:27.525773
